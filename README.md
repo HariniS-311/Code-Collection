@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harini S</h1>
 <h3 align="center">Aspiring Web Developer</h3>
+<img align="right" alt="coding" width="400' scrc="https://github.com/user-attachments/assets/a935e52e-bc76-4d75-bf7d-b41fbf45d57d">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harinis-311&label=Profile%20views&color=0e75b6&style=flat" alt="harinis-311" /> </p>
 
